@@ -127,7 +127,6 @@ span.resultado {
   opacity: 0;
   transform: translateY(-100%);
 }
-    
 
 .gran-total {
   text-align: center;
@@ -135,9 +134,6 @@ span.resultado {
   border: 1px solid #26C6DA;
   background-color: rgb(127, 224, 237);
   margin-top: 1rem;
-}
-.gran-total p {
-
 }
 
 .resumen {
